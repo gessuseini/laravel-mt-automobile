@@ -1,0 +1,18 @@
+.text-blue-color {
+    color: #1E69B8 !important;
+}
+.bg-blue-color {
+    background-color: #1E69B8;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
